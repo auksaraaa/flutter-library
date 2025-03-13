@@ -38,22 +38,7 @@ To run this project locally, follow these steps:
 |----------|----------|-----------|
 | ![Add Book](screenshots/add_book.png) | ![Edit Book](screenshots/edit_book.png) | ![Book List](screenshots/book_list.png) |
 
-## 📌 Technologies Used
-- **Flutter** – UI Framework
-- **Firebase Firestore** – Database
-- **Firebase Authentication** – User login & authentication
-- **Provider** – State Management
 
-## 💡 Future Improvements
-- 📚 **Categorization & Tags**
-- 🔔 **Notifications for Book Due Dates**
-- 🌐 **Multi-language Support**
-
-## 🤝 Contribution
-Feel free to fork the repository and submit a pull request! 🎉
-
-## 📩 Contact
-For any inquiries, reach out via [email@example.com](mailto:email@example.com) or open an issue on GitHub.
 
 ---
-⭐ **Don't forget to star the repo if you find it useful!** ⭐
+⭐ **Auksara Suwannawayak 6530200886 sec 870** ⭐
