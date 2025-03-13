@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380421404828",
+    "project_id": "auksaras-2aa7f",
+    "storage_bucket": "auksaras-2aa7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380421404828:android:14201d4f1a623eda365559",
+        "android_client_info": {
+          "package_name": "com.example.books"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCsWshVZsVBRmyQn0r7M_KG5gJD1E9CYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
