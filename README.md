@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
 ## 🖼 Screenshots
 | Add Book | Edit Book | Book List |
 |----------|----------|-----------|
-| ![Add Book](screenshots/add_book.png) | ![Edit Book](screenshots/edit_book.png) | ![Book List](screenshots/book_list.png) |
+| ![Add Book](image/add-screen.png) | ![Edit Book](image/edit-screen.png) | ![Book List](image/home-screen.png) |
 
 
 
